@@ -1,20 +1,20 @@
 # VBA Of Wall Street: Alternative Energy Analysis
 
-## Project Overview
+## Project Overview:
 
-#### Steve's parents are interested in investing in Green Energy stocks, the purpose of our analysis is to go through 12 different stocks, for the years 2017 and 2018 and provide them with enough information to make their decision. They are specifically interested in DACO "DQ" stock. To do so, we are going to create a code on VBA from which we will get all of the needed information.
+#### Steve's parents are interested in investing in Green Energy stocks, the purpose of our analysis is to go through data based on different stocks, for the years 2017 and 2018 and provide them with enough information to make their decision. They are specifically interested in DACO "DQ" stock. To do so, we are going to create a code on VBA from which we will get all of the needed information.
 #### We are also going to compare how fast the code generates the results, before and after refactoring it.
 
-## Stock Analysis Results
+## Stock Analysis Results:
 
-#### From the pictures attached below, we notice that 2017 was a great year for Green Energy stocks' returns. In fact, all of the stocks, except "TERP" had a positive return, "DQ" had the best increase in return, with 199.4% increase. So, looking at these numbers, we can definitely understand why Steve's parents were interested in investing in "DQ" stock, beside the fact that they had first met at a Dairy Queen.
-#### However, in 2018, all of the stocks had negative return, and only 2 out of 12 stocks saw positive returns. Unfortunately "DQ" was hit with the most decline in return, 62.6%.
+#### From the pictures attached below, we notice that 2017 was a great year for Green Energy stocks' returns. In fact, all of the stocks, except "TERP" had a positive return, "DQ" had the best percentage return, with a 199.4% increase. So, looking at these numbers, we can definitely understand why Steve's parents were interested in investing in "DQ" stock, besides the fact that Dairy Queen (DQ) is the place where they had met for the first time.
+#### However, in 2018, all of the stocks had negative return, and only 2 out of 12 stocks had positive returns. Unfortunately "DQ" was hit with the most decline in return, 62.6%. See pictures and charts below,
 
 ![](Resources/Stocks_Results_2017.PNG)     ![](Resources/Stocks_Results_2018.PNG)
 
 ![](Resources/2017_Stocks_Chart.png)       ![](Resources/2018_Stocks_Chart.png)
 
-## Speed of code's results
+## Code's runtime results:
 
 #### Prior to refactoring the code, the script run times for 2017 and 2018 were 0.66779688 seconds and 0.6601563 seconds, respectively. After refactoring, the results for 2017 and 2018 were generated in 0.1015625 seconds and 0.140625 seconds respectively. This is a time reduction by about 5 to 6 times.
  
