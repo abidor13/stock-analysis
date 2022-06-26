@@ -10,15 +10,18 @@
 #### From the pictures attached below, we notice that 2017 was a great year for Green Energy stocks' returns. In fact, all of the stocks, except "TERP" had a positive return, "DQ" had the best increase in return, with 199.4% increase. So, looking at these numbers, we can definitely understand why Steve's parents were interested in investing in "DQ" stock, beside the fact that they had first met at a Dairy Queen.
 #### However, in 2018, all of the stocks had negative return, and only 2 out of 12 stocks saw positive returns. Unfortunately "DQ" was hit with the most decline in return, 62.6%.
 
-![](Resources/Stocks_Results_2017.PNG)      ![](Resources/Stocks_Results_2018.PNG)
+![](Resources/Stocks_Results_2017.PNG)     ![](Resources/Stocks_Results_2018.PNG)
 
+![](Resources/2017_Stocks_Chart.png)       ![](Resources/2018_Stocks_Chart.png)
 
 ## Speed of code's results
 
 #### Prior to refactoring the code, the script run times for 2017 and 2018 were 0.66779688 seconds and 0.6601563 seconds, respectively. After refactoring, the results for 2017 and 2018 were generated in 0.1015625 seconds and 0.140625 seconds respectively. This is a time reduction by about 5 to 6 times.
  
 
+![](Resources/Initial_Elapse_Time_2017.PNG)          ![](Resources/Initial_Elapse_Time_2017.PNG)
 
+![](Resources/VBA_Challenge_2017.png.PNG)            ![](Resources/VBA_Challenge_2017.png.PNG)
 
 
 
