@@ -17,8 +17,7 @@
 
 #### Prior to refactoring the code, the script run times for 2017 and 2018 were 0.66779688 seconds and 0.6601563 seconds, respectively. After refactoring, the results for 2017 and 2018 were generated in 0.1015625 seconds and 0.140625 seconds respectively. This is a time reduction by about 5 to 6 times.
  
- 
-![](Resources/VBA_Challenge_2017.png.PNG)          ![](Resources/VBA_Challenge_2017.png.PNG)
+
 
 
 
