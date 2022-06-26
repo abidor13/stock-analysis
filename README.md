@@ -10,8 +10,9 @@
 #### From the pictures attached below, we notice that 2017 was a great year for Green Energy stocks' returns. In fact, all of the stocks, except "TERP" had a positive return, "DQ" had the best increase in return, with 199.4% increase. So, looking at these numbers, we can definitely understand why Steve's parents were interested in investing in "DQ" stock, beside the fact that they had first met at a Dairy Queen.
 #### However, in 2018, all of the stocks had negative return, and only 2 out of 12 stocks saw positive returns. Unfortunately "DQ" was hit with the most decline in return, 62.6%.
 
-![](Resources/Stocks_Results_2017.png) 
+![](Resources/Stocks_Results_2017.PNG)      ![](Resources/Stocks_Results_2018.PNG)
 
+![](Resources/2017_Stocks_Chart.png)        ![](Resources/2018_Stocks_Chart.png)
 
 ## Speed of code's results
 
